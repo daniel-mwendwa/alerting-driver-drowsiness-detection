@@ -19,8 +19,8 @@ A Python-based project to detect drowsiness in drivers using computer vision tec
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/alerting-driver-drowsiness-detection.git
-   cd alerting-driver-drowsiness-detection
+   git clone https://github.com/daniel-mwendwa/alerting-driver-drowsiness-detection.git
+cd alerting-driver-drowsiness-detection
 
 also download shape predictor from
 https://github.com/MortezaNedaei/Facial-Landmarks-Detection/blob/master/shape_predictor_68_face_landmarks.dat
