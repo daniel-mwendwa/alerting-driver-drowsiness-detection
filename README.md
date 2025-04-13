@@ -2,7 +2,7 @@
  
 A Python-based project to detect drowsiness in drivers using computer vision techniques and alert them with an audio alarm. The system ensures road safety by monitoring the driver’s facial features in real time.
   
-## Features    
+## Features  
 - Detects drowsiness by monitoring eye aspect ratio (EAR).
 - Detects yawning by calculating the lip distance.
 - Alerts the driver with an audio alarm when drowsiness or yawning is detected.
