@@ -1,5 +1,5 @@
 # Alerting Driver Drowsiness Detection  
-   
+    
 A Python-based project to detect drowsiness in drivers using computer vision techniques and alert them with an audio alarm. The system ensures road safety by monitoring the driver’s facial features in real time.
    
 ## Features
