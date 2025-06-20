@@ -7,7 +7,7 @@ A Python-based project to detect drowsiness in drivers using computer vision tec
 - Detects yawning by calculating the lip distance.
 - Alerts the driver with an audio alarm when drowsiness or yawning is detected.
 
-## Requirements
+## Requirements 
 - Python 3.7 or later
 - OpenCV
 - dlib
